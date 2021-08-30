@@ -2,16 +2,16 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
-hero_media: book.svg
+title: RETA: A Benchmark for Retinal Vascular Tree Analysis
+hero_media: tree2.png
 design:
   background:
     gradient_start: '#4bb4e3'
     gradient_end: '#2b94c3'
-    text_color_light: true
+    text_color_light: false
 cta:
   url: docs/
-  label: Get Started
+  label: View
   icon_pack: fas
   icon: download
 cta_alt:
