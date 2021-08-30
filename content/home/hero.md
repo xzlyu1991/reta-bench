@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: RETA-A Benchmark for Retinal Vascular Tree Analysis
+title: RETA Benchmark
 hero_media: tree2.png
 design:
   background:
@@ -23,7 +23,7 @@ cta_note:
       Show your product version here:<!-- Automatically filled based on data-repo value -->
     </span>
 ---
-
+A benchmark for retinal vascular tree analysis
 Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
 Write something interesting about your project here.
