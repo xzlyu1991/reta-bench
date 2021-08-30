@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: RETA: A Benchmark for Retinal Vascular Tree Analysis
+title: RETA-A Benchmark for Retinal Vascular Tree Analysis
 hero_media: tree2.png
 design:
   background:
