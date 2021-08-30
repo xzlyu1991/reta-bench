@@ -5,7 +5,7 @@
 
 title: 'RETA' # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '©2021 Xingzheng Lyu' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
